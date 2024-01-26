@@ -26,9 +26,18 @@ Here you can add words to filter
 
 where you can replace filtered words with words of your choice.
 
+### Built with
+
+- PHP
+- CSS 
+- HTML
+- WordPress
+- Local by flywheel
+
+
 ## Contributing
 
-If you'd like to contribute to the project, please follow our [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.  If you'd like to contribute to the project, please follow our [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
