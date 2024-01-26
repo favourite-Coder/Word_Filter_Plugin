@@ -2,9 +2,10 @@
 
 /*
 plugin Name: My Word Filter Plugin
-Description: Replaces a list of words.
+Description: Filter out specific words and replace them with your 
+desired text in the frontend.
 Version: 1.0
-Author: Favour
+Author: Favour Gabriel
 Author URI: 
 
 Text Domain: wcpdomain
