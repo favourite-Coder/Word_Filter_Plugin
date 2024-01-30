@@ -32,6 +32,7 @@ where you can replace filtered words with words of your choice.
 - CSS 
 - HTML
 - WordPress
+- Node.js
 - Local by flywheel
 
 
